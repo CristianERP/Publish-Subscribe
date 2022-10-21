@@ -1,0 +1,4 @@
+Subscriber\node_modules
+Publisher\node_modules
+.vscode
+Publisher\env
